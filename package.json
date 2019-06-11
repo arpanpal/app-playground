@@ -12,5 +12,6 @@
     "express": "^4.16.3",
     "helmet": "^3.14.0",
     "jest": "latest",
+    "tslint": "latest"
   }
 }
